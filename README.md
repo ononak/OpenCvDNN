@@ -1,4 +1,4 @@
-# SSD Object Detection with Qt
+# Object Detection
 
 An application for object detection using SSD (Single Shot MultiBox Detector) models with OpenCV DNN module.
 
@@ -28,3 +28,5 @@ An application for object detection using SSD (Single Shot MultiBox Detector) mo
 - Qt6
 - CMake 3.12+
 - C++17 compatible compiler
+
+<img width="804" height="634" alt="image" src="https://github.com/user-attachments/assets/de5078ea-c89b-4e1b-b657-dc501db22ecd" />
